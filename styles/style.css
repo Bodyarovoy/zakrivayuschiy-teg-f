@@ -170,7 +170,7 @@
   padding: 0;
   display: flex;
   width: 130px;
-  height: 38px;
+  /* height: 38px; */
 }
 
 .button:focus {
