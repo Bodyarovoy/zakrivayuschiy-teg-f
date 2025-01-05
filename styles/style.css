@@ -151,10 +151,6 @@
   gap: 9px;
 }
 
-.card__icon-button:focus-visible {
-  outline: 2px solid #000;
-}
-
 .button {
   position: relative;
   z-index: 1;
@@ -203,7 +199,7 @@ transition: transform 0.5s ease-in-out;
 }
 
 .button:hover::before {
-  transform: translateX(0); 
+  transform: translateX(0);
 }
 
 .button-save {
@@ -271,7 +267,7 @@ transition: transform 0.5s ease-in-out;
   block-size: 39px;
 }
 
-form{
+form {
   display: grid;
 }
 
