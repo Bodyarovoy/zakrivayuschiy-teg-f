@@ -204,7 +204,7 @@ transition: transform 0.5s ease-in-out;
 .button-save {
   display: flex;
   gap: 8px;
-  margin: 50px auto;
+  margin: 50px auto 100px;
   padding: 14px 19px;
   align-items: center;
 }
@@ -239,6 +239,7 @@ transition: transform 0.5s ease-in-out;
   padding: 30px;
   color: #000;
   font-family: var(--accent-font, "PressStart2P", fantasy);
+  font-size: 14px;
   line-height: 1.5;
   text-transform: uppercase;
   background: #fff;
